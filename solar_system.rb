@@ -1,4 +1,5 @@
 # Solar system
+# Project rating: This project was fun and cool, would do again
 
 # Create a Planet class with a name attribute.
 class Planet
